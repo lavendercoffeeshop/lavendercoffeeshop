@@ -103,4 +103,4 @@ Looking for premium themes and templates? Check out more [admin dashboard templa
 
 ## License
 
-[MIT](https://github.com/flatlogic/react-material-dashboard/blob/master/LICENSE.txt).
+[MIT](https://github.com/Abdullah-Zakhoi/organic_coffee_shop_flutter_ui.git
